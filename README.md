@@ -1,0 +1,1 @@
+LNbits splash page

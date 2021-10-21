@@ -1,1 +1,1 @@
-LNbits splash page
+LNbits splash page. Use if you want.

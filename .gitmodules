@@ -1,6 +1,6 @@
-[submodule "lnpos"]
-	path = lnpos
-	url = https://github.com/lnbits/lnpos
 [submodule "hardware-wallet"]
 	path = hardware-wallet
 	url = https://github.com/lnbits/hardware-wallet
+[submodule "lnpos"]
+	path = lnpos
+	url = https://github.com/lnbits/lnpos
